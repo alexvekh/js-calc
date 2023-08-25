@@ -1,1 +1,1 @@
-console.log('component')
+import { message } from '../../script/test'
